@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use OpenVibers in research or a product, cite it as below."
+title: openvibe
+type: software
+authors:
+  - name: OpenVibe
+    alias: OpenVibers
+    website: https://openvibe.network
+repository-code: https://github.com/OpenVibers/OpenVibers
+url: https://openvibe.network
+license: MIT
+abstract: "OpenVibe: open source live streaming, community, AI and tools with one account for every site."
+keywords:
+  - openvibe
+  - ai
+  - community
+  - developer-tools
+  - github-profile

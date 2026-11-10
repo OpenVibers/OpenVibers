@@ -9,6 +9,8 @@ publishing, AI and everyday tools — [openvibe.network](https://openvibe.networ
 - **Build:** [openvibe.services](https://openvibe.services) — every API, the SDK, keys and examples.
 - **Help:** [openvibe.help](https://openvibe.help) — what every site does and where to ask a person.
 
+Every site serves an `/llms.txt` for machines, and every public API is documented at [openvibe.services](https://openvibe.services).
+
 Most services are open source (AGPL-3.0); the libraries apps embed are MIT. Every repository lists its licence.
 
 ## Watch and share
@@ -35,6 +37,8 @@ Most services are open source (AGPL-3.0); the libraries apps embed are MIT. Ever
 | **OpenVibe.News** | Source-backed stories: clustered coverage, cited summaries and perspectives. | [Site](https://openvibe.news) · [Code](https://github.com/OpenVibers/OpenVibe.News) |
 | **OpenVibe.Reviews** | Review signals gathered across sources with provenance and honest aggregates. | [Site](https://openvibe.reviews) · [Code](https://github.com/OpenVibers/OpenVibe.Reviews) |
 | **OpenVibe.Space** | Forums and member spaces with moderators, threads, reactions and votes. | [Site](https://openvibe.space) · [Code](https://github.com/OpenVibers/OpenVibe.Space) |
+| **OpenVibe.Mail** | Email masks, self-destructing burners and an inbox for every agent. | [Site](https://openvibe.email) · [Code](https://github.com/OpenVibers/OpenVibe.Mail) |
+| **OpenVibe.Locker** | Private files and expiring Sends, encrypted on your device and unlocked with a passkey. | [Site](https://openvibe.locker) · [Code](https://github.com/OpenVibers/OpenVibe.Locker) |
 | **OpenVibe.Today** | Stream schedules, reminders, calendar feeds and the morning brief. | [Site](https://openvibe.today) · [Code](https://github.com/OpenVibers/OpenVibe.Today) |
 | **OpenVibe.Quest** | The shared quest log: real things you do on OpenVibe sites, paid in badges and OpenCoins. | [Site](https://openvibe.quest) · [Code](https://github.com/OpenVibers/OpenVibe.Quest) |
 | **OpenVibe.Play** | Achievements and leaderboards for every OpenVibe game. | [Site](https://play.openvibe.network) · [Code](https://github.com/OpenVibers/OpenVibe.Play) |
@@ -52,8 +56,9 @@ Most services are open source (AGPL-3.0); the libraries apps embed are MIT. Ever
 | **OpenVibe.Run** | Isolated job execution placed on worker nodes and metered. | [Site](https://openvibe.run) · [Code](https://github.com/OpenVibers/OpenVibe.Run) |
 | **OpenVibe.Watch** | Persistent observations and conditions over pages, feeds, APIs and devices. | [Site](https://openvibe.watch) · [Code](https://github.com/OpenVibers/OpenVibe.Watch) |
 | **OpenVibe.Exchange** | A marketplace for apps, mods, skills and compute, with permission passports. | [Site](https://openvibe.exchange) · [Code](https://github.com/OpenVibers/OpenVibe.Exchange) |
-| **OpenVibe.Node** | The device agent for computers, Pis, phones and robots (OpenVibe Link). | [Site](https://openvibe.link) · [Code](https://github.com/OpenVibers/OpenVibe.Node) |
-| **OpenVibe.Connect** | Your computer on the web, privately, behind OpenVibe sign-in. | [Site](https://connect.openvibe.website) · [Code](https://github.com/OpenVibers/OpenVibe.Connect) |
+| **OpenVibe.Link** | The device agent for computers, Pis, phones and robots, with no open ports. | [Site](https://openvibe.link) · [Code](https://github.com/OpenVibers/OpenVibe.Link) |
+| **OpenVibe.Bot** | Pair a robot in minutes and drive it safely from a browser. | [Site](https://openvibe.bot) · [Code](https://github.com/OpenVibers/OpenVibe.Bot) |
+| **OpenVibe.Connect** | Your computer on the web, privately, behind OpenVibe sign-in. | [Site](https://connect.openvibe.link) · [Code](https://github.com/OpenVibers/OpenVibe.Connect) |
 | **OpenVibe.Computer** | A virtual computer in the browser for you, your AI, or both. | [Site](https://openvibe.computer) · [Code](https://github.com/OpenVibers/OpenVibe.Computer) |
 
 ## Everyday tools
@@ -95,6 +100,7 @@ Most services are open source (AGPL-3.0); the libraries apps embed are MIT. Ever
 | **OpenVibe.Search** | Permission-aware, event-fed search index with ACL-filtered queries. | [Code](https://github.com/OpenVibers/OpenVibe.Search) |
 | **OpenVibe.Billing** | The isolated double-entry money ledger: providers, receipts, subscriptions and payouts. | [Code](https://github.com/OpenVibers/OpenVibe.Billing) |
 | **OpenVibe.Zone** | Private S3-compatible storage zones for OpenVibe projects. | [Site](https://openvibe.zone) · [Code](https://github.com/OpenVibers/OpenVibe.Zone) |
+| **OpenVibe.Git** | Host, browse and mirror code with your OpenVibe account, and clone it with Link. | [Site](https://git.openvibe.codes) · [Code](https://github.com/OpenVibers/OpenVibe-Git) |
 | **OpenVibe.Inventory** | Items you earn and wear on every OpenVibe site. | [Site](https://openvibe.my/inventory) · [Code](https://github.com/OpenVibers/OpenVibe.Inventory) |
 | **OpenVibe.Extensions** | First-party client surfaces, starting with the browser helper. | [Code](https://github.com/OpenVibers/OpenVibe.Extensions) |
 
