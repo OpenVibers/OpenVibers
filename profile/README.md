@@ -100,6 +100,7 @@ Most services are open source (AGPL-3.0); the libraries apps embed are MIT. Ever
 | **OpenVibe.Search** | Permission-aware, event-fed search index with ACL-filtered queries. | [Code](https://github.com/OpenVibers/OpenVibe.Search) |
 | **OpenVibe.Billing** | The isolated double-entry money ledger: providers, receipts, subscriptions and payouts. | [Code](https://github.com/OpenVibers/OpenVibe.Billing) |
 | **OpenVibe.Zone** | Private S3-compatible storage zones for OpenVibe projects. | [Site](https://openvibe.zone) · [Code](https://github.com/OpenVibers/OpenVibe.Zone) |
+| **OpenVibe.Git** | Host, browse and mirror code with your OpenVibe account, and clone it with Link. | [Site](https://git.openvibe.codes) · [Code](https://github.com/OpenVibers/OpenVibe-Git) |
 | **OpenVibe.Inventory** | Items you earn and wear on every OpenVibe site. | [Site](https://openvibe.my/inventory) · [Code](https://github.com/OpenVibers/OpenVibe.Inventory) |
 | **OpenVibe.Extensions** | First-party client surfaces, starting with the browser helper. | [Code](https://github.com/OpenVibers/OpenVibe.Extensions) |
 
